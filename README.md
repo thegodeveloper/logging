@@ -1,3 +1,3 @@
 # Logging
 
-This repository is used from `learning-go` repo.
+This repository is being used from `learning-go` repo.
